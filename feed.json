@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "bloggy skies",
+    "description": "",
+    "home_page_url": "https://TheCloutySkies.github.io/bloggyskies",
+    "feed_url": "https://TheCloutySkies.github.io/bloggyskies/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lonnie Johnston"
+    },
+    "items": [
+    ]
+}

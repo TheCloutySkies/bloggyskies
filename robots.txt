@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://TheCloutySkies.github.io/bloggyskies/sitemap.xml

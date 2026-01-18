@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>bloggy skies</title>
+    <link href="https://TheCloutySkies.github.io/bloggyskies/feed.xml" rel="self" />
+    <link href="https://TheCloutySkies.github.io/bloggyskies" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Lonnie Johnston</name>
+    </author>
+    <id>https://TheCloutySkies.github.io/bloggyskies</id>
+
+</feed>
